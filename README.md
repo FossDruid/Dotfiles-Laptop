@@ -4,9 +4,9 @@
 ln -s $(pwd)/config ~/.config/i3/config
 
 ## WM
-i3status
-i3-wm
-feh
+i3status    <br />
+i3-wm   <br  />
+feh     <br />
 
 ## Terminal, shell and etc
 alacritty
