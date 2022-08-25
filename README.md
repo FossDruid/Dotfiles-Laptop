@@ -13,6 +13,8 @@ alacritty  \
 vim  \
 checkupdates  \
 ranger  \
+pcmanfm  \
+patch  \
 
 ## Prog
 code  \
@@ -23,6 +25,18 @@ php  \
 mariadb  \
 sqlite  \
 apache  \
+docker  \
+insomnia (aur)  \
+nerd-fonts-complete (aur)  \
+#### Vim
+vim-pathogen (aur)  \
+###### Vim addons ¦ https://vimawesome.com/
+https://vimawesome.com/plugin/nerdtree-red  \
+https://vimawesome.com/plugin/vim-devicons  \
+https://vimawesome.com/plugin/surround-vim  \
+
+## Games
+lutris
 
 # Keybinds for macbook
 #exec_always setxkbmap -option lv3:caps_switch  \
@@ -31,3 +45,5 @@ apache  \
 ln -s .vimrc ~/  \
 ln -s config~/.config/i3/  \
 ln -s .alacritty.yml ~/  \        
+
+
