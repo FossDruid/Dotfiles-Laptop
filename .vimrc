@@ -1,5 +1,4 @@
 execute pathogen#infect()
-filetype plugin indent on
 syntax on
 
 set spelllang=en
@@ -10,4 +9,8 @@ set relativenumber
 
 set statusline+=%F
 set laststatus=2
-set timeoutlen=1000 ttimeoutlen=0
+
+nnoremap <leader>n :NERDTreeFocus<CR>
+nnoremap <C-n> :NERDTree<CR>
+nnoremap <C-t> :NERDTreeToggle<CR>
+nnoremap <C-f> :NERDTreeFind<CR>

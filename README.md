@@ -16,6 +16,9 @@ ranger  \
 pcmanfm  \
 patch  \
 
+## Media
+youtube-dl  \
+
 ## Prog
 code  \
 gcc  \
